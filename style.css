@@ -1,0 +1,73 @@
+
+.intro{
+    background-color: #f0e2d9;
+}
+.personal{
+    margin-top: -60px;
+}
+
+.bio{
+    background-color: whitesmoke;
+}
+
+.prog{
+    margin-top: -10px;
+}
+.progr{
+    margin-top: -5px;
+}
+.philips{
+    margin-left: -12px;
+}
+
+.discipline1{
+    background-color: #e5ad58;
+    color: white;
+    font-size: smaller;
+}
+.discipline2{
+    background-color: #e9714c;
+    color: white;
+    font-size: smaller;
+}
+.discipline3{
+    background-color: #161616;
+    color: white;
+    font-size: smaller;
+}
+.discipline4{
+    background-color: whitesmoke;
+    font-size: smaller;
+}
+.discipline1, .discipline2, .discipline3, .discipline4, img{
+    justify-items: center;
+}
+
+.experience{
+    background-color: #e9714c;
+    padding-left: 30px;
+}
+.project{
+    color: white;
+}
+.education{
+    background-color: #e5ad58;
+    padding-left: 30px;
+}
+.edu img{
+    margin-left: -12px;
+}
+.education ul li p{
+    color: black;
+}
+
+.contact{
+    background-color: #e9714c;
+}
+.cont img{
+    margin-left: -12px;
+}
+
+.foot{
+    text-align: center;
+}
